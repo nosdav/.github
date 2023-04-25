@@ -7,14 +7,14 @@ NosDAV is a distributed authoring and versioning system that aims to improve col
 
 Below are some of the repositories in our organization:
 
-- [nosdav](https://github.com/nosdav/nosdav) - Nostr Distributed Authoring and Versioning
 - [spec](https://github.com/nosdav/spec) - NosDAV Spec
 - [server](https://github.com/nosdav/server) - NosDAV Server
 - [pastebin](https://github.com/nosdav/pastebin) - NosDAV Pastebin
 - [nosdav.github.io](https://github.com/nosdav/nosdav.github.io) - NosDAV Website
 - [bookmarks](https://github.com/nosdav/bookmarks) - NosDAV Bookmarks
 - [apps](https://github.com/nosdav/apps) - NosDAV Apps
-- [todo](https://github.com/nosdav/todo) - Todo
+- [todo](https://github.com/nosdav/todo) - Todo App
+- [calendar](https://github.com/nosdav/calendar) - Calendar App
 - [my-mind](https://github.com/nosdav/my-mind) - Online Mindmapping Software
 - [nosdav-shim](https://github.com/nosdav/nosdav-shim) - NosDAV Shim
 - [nosdav-cli](https://github.com/nosdav/nosdav-cli) - NosDAV Command-Line Interface
@@ -23,6 +23,7 @@ Below are some of the repositories in our organization:
 - [profile](https://github.com/nosdav/profile) - Profile
 - [applist](https://github.com/nosdav/applist) - App List
 - [encryptedpastebin](https://github.com/nosdav/encryptedpastebin) - Encrypted Pastebin
+- [nosdav](https://github.com/nosdav/nosdav) - Nosdav library
 
 ## Get in Touch 📧
 
